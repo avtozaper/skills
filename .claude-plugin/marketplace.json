@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "aio-content-writing",
-      "source": "./plugins/aio-content-writing",
+      "source": "./skills/aio-content-writing",
       "description": "Пиши и переписывай тексты так, чтобы их цитировали AI-поисковики: Answer Unit, чанки 300–500 символов, Query Fanout, entity → property → value, Information Gain.",
       "version": "1.0.0",
       "category": "seo",
