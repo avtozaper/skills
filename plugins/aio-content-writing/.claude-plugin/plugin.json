@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "aio-content-writing",
+  "displayName": "AIO Content Writing",
+  "version": "1.0.0",
+  "description": "Пиши и переписывай тексты так, чтобы их цитировали AI-поисковики: формула абзаца (Answer Unit), чанки 300–500 символов, веер подзапросов (Query Fanout), структура entity → property → value и критерии Information Gain.",
+  "author": {
+    "name": "Амин",
+    "url": "https://1888.center"
+  },
+  "homepage": "https://1888.center/courses/skills/aio-content-writing/",
+  "repository": "https://github.com/avtozaper/skills",
+  "license": "MIT",
+  "keywords": ["seo", "aeo", "geo", "content", "ai-overview", "llm"]
+}

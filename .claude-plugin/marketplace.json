@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "1888-center",
+  "description": "Скиллы для SEO, AEO и GEO с сайта 1888.center — курсы «Современное SEO-продвижение»",
+  "owner": {
+    "name": "Амин",
+    "url": "https://1888.center"
+  },
+  "plugins": [
+    {
+      "name": "aio-content-writing",
+      "source": "./plugins/aio-content-writing",
+      "description": "Пиши и переписывай тексты так, чтобы их цитировали AI-поисковики: Answer Unit, чанки 300–500 символов, Query Fanout, entity → property → value, Information Gain.",
+      "version": "1.0.0",
+      "category": "seo",
+      "author": {
+        "name": "Амин",
+        "url": "https://1888.center"
+      },
+      "homepage": "https://1888.center/courses/skills/aio-content-writing/"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.DS_Store
+
+# Секреты и локальное состояние скиллов — не должны уезжать в паблик
+**/config/.env
+**/config/config.json
+**/config/service_account_key.json
+**/cache/*.json
+
+# Node
+**/node_modules/
