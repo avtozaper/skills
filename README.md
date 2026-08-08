@@ -53,6 +53,8 @@ rm -rf ~/.claude/skills/aio-content-writing
 ln -s ~/skills/plugins/aio-content-writing ~/.claude/skills/aio-content-writing
 ```
 
+Установленный плагин с тем же именем перебивает эту копию: Claude Code сообщит `Not loaded — the name is already taken`, и вы будете править файл, который не подгружается. Пока правите скилл — держите его удалённым (`claude plugin uninstall <name>`), а установленную версию ставьте только чтобы проверить, что получат пользователи.
+
 Перед публикацией:
 
 ```bash
