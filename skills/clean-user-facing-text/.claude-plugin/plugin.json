@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "clean-user-facing-text",
+  "displayName": "Чистка текста перед публикацией",
+  "version": "1.0.0",
+  "description": "Находит и вычищает невидимые Unicode-символы (ZWSP, bidi, tag-chars, экзотические пробелы), которые ломают поиск по странице, слуги и токенизацию у AI-краулеров, и приводит прозу в порядок без потери фактов. Облегчённая текстовая версия watermarks-remover (MIT).",
+  "author": {
+    "name": "Амин",
+    "url": "https://1888.center"
+  },
+  "homepage": "https://1888.center/courses/skills/clean-user-facing-text/",
+  "repository": "https://github.com/avtozaper/skills",
+  "license": "MIT",
+  "keywords": ["text", "unicode", "zwsp", "content", "publishing", "seo"]
+}

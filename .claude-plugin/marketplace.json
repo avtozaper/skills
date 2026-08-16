@@ -18,6 +18,18 @@
         "url": "https://1888.center"
       },
       "homepage": "https://1888.center/courses/skills/aio-content-writing/"
+    },
+    {
+      "name": "clean-user-facing-text",
+      "source": "./skills/clean-user-facing-text",
+      "description": "Находит и вычищает невидимые Unicode-символы (ZWSP, bidi, tag-chars, экзотические пробелы), которые ломают поиск по странице, слуги и токенизацию у AI-краулеров, и приводит прозу в порядок без потери фактов. Облегчённая текстовая версия watermarks-remover (MIT).",
+      "version": "1.0.0",
+      "category": "content",
+      "author": {
+        "name": "Амин",
+        "url": "https://1888.center"
+      },
+      "homepage": "https://1888.center/courses/skills/clean-user-facing-text/"
     }
   ]
 }
