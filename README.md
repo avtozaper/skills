@@ -44,6 +44,8 @@ npx skills add avtozaper/skills --skill aio-content-writing -g
 | Скилл | Что делает | Описание |
 |---|---|---|
 | `aio-content-writing` | Тексты под цитируемость в AI-поисковиках: Answer Unit, чанки 300–500 символов, Query Fanout, Information Gain | [страница](https://1888.center/courses/skills/aio-content-writing/) |
+| `clean-user-facing-text` | Text Cleaner: находит и вычищает невидимые Unicode-символы, приводит прозу в порядок | [страница](https://1888.center/courses/skills/clean-user-facing-text/) |
+| `backend-security-audit` | Security Audit: проверка бэкенда и сервера на уязвимости по OWASP, свежие CVE 2026, curl-проверки и шаблоны тестов | [страница](https://1888.center/courses/skills/backend-security-audit/) |
 
 ## Структура репозитория
 
