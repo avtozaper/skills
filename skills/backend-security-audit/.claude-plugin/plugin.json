@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "backend-security-audit",
   "displayName": "Security Audit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Аудит безопасности бэкенда и сайта по OWASP Top 10:2025 и API Top 10:2023: 26 разделов проверок кода и живого сервера (инъекции, IDOR, массовое присвоение, XSS, SSRF, слабый вход, утечки, загрузка файлов, JWT, гонки, цепочка поставок, WordPress, Bitrix, LLM-боты), свежие CVE 2026 года (PHP2Shell, Java4Shell, SSHole, wp2shell), безопасные curl-проверки и шаблоны регрессионных тестов.",
   "author": {
     "name": "Амин",
